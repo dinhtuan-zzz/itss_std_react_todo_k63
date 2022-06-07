@@ -20,7 +20,7 @@ function useStorage() {
   }, []);
 
   const putItems = items => {
-    
+
   };
 
   const clearItems = () => {
